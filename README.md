@@ -4,12 +4,14 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/coqzieiro" style="flex-basis: 48%;">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=coqzieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coqzieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/coqzieiro" style="flex-basis: 48%;">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coqzieiro&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coqzieiro&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
+
+##
 
 <div style="margin-top: 20px;">
   <p style="text-align: center;">
@@ -20,8 +22,6 @@
   </p>
 </div>
 
-
-
   ##
  
 <div> 
@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/felipe-coqueiro-713406227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Killua Gopackgo GIF](https://media.tenor.com/EWW32mGrtykAAAAC/killua-gopackgo.gif)
+##
