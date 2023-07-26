@@ -4,19 +4,23 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/coqzieiro" style="flex-basis: 48%;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coqzieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=coqzieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/coqzieiro" style="flex-basis: 48%;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coqzieiro&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coqzieiro&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+<div style="margin-top: 20px;">
+  <p style="text-align: center;">
+    <img alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+  </p>
 </div>
+
+
 
   ##
  
