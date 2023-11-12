@@ -1,6 +1,6 @@
 ## Olá! Sejam bem-vindos!
 - 👨‍💻 Hoje eu trabalho com back-end
-- 🌱 Estudando C, HTML5, CSS3 e JavaScript
+- 🌱 Estudando HTML5, CSS3 e JavaScript
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/coqzieiro" style="flex-basis: 48%;">
