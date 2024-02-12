@@ -1,5 +1,5 @@
 ## Olá! Sejam bem-vindos!
-- 👨‍💻 Hoje eu trabalho com Back-End
+- 👨‍💻 Hoje eu trabalho com desenvolvimento web
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 
 <div style="display: flex; justify-content: space-between;">
