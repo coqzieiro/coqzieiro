@@ -1,6 +1,6 @@
 ## Olá! Sejam bem-vindos!
-- 👨‍💻 Hoje eu trabalho com desenvolvimento web
-- 🌱 Estudando HTML5, CSS3 e JavaScript
+- 👨‍💻 Hoje eu trabalho com desenvolvimento web e mobile
+- 🌱 Estudando um pouco de ciência de dados :p
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/coqzieiro" style="flex-basis: 48%;">
