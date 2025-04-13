@@ -1,4 +1,5 @@
-## Olá! Sejam bem-vindos!
+## Falaeee galera, sejam bem-vindo(a)s!
+
 - 👨‍💻 Hoje eu trabalho com desenvolvimento web e mobile
 - 🌱 Estudando um pouco de ciência de dados :p
 
