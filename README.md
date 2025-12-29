@@ -3,15 +3,6 @@
 - 👨‍💻 Atualmente trabalho com desenvolvimento web e mobile
 - 🌱 Estudando um pouco de ciência de dados :p
 
-<div align="center">
-  <a href="https://github.com/coqzieiro">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=coqzieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/coqzieiro">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coqzieiro&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
 ##
 
 <div align="center">
