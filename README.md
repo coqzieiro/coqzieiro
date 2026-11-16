@@ -1,7 +1,7 @@
 # Olá, sejam bem-vindos! :)
 
 - 👨‍💻 Atualmente trabalho com desenvolvimento web e mobile
-- 🌱 Estudando um pouco de ciência de dados :p
+- 🌱 Estudando um pouco de IA e Cybersegurança :p
 
 ##
 
